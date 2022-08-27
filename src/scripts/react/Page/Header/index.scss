@@ -1,7 +1,7 @@
 #header {
   min-height: 100vh;
   height: 58.4375rem  /* 935/16 */;
-  background-color: #b58da7;
+  background-color: #e6a5cf;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -89,7 +89,7 @@
     height: 100%;
     mask: url("./a.svg");
     mask-repeat: no-repeat;
-    mask-size: 50%;
+    mask-size: 72%;
     mask-position: center 50%;
     object-fit:inherit;
   }
@@ -108,7 +108,7 @@
     cursor: pointer;
     &:hover {
       &::before, &::after {
-        width: 51%;
+        width: 91%;
       }
     }
     &::before, &::after {

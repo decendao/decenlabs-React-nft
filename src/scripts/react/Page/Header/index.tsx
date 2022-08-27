@@ -23,7 +23,7 @@ export default function Header(props: Props) {
   return (
     <div id="header">
       <div className="top-nav">
-        <img className="logo" src="/img/logo.png" alt=""/>
+        <img className="logo" src="/img/logo2.png" alt=""/>
         <div className="m-d"/>
         <div className="right">
           <img src="/img/close.png" className="close"/>
@@ -81,7 +81,7 @@ export default function Header(props: Props) {
           <img src="/img/menu.png" alt=""/>
         </div>
       </div>
-      <video id="header-video" src="/video/immagram_hp_fixed.mp4" autoPlay loop muted/>
+      <video id="header-video" src="/video/headervid1.mp4" autoPlay loop muted/>
       <div className="coming-button" onClick={props.show}>
         MINT NOW
       </div>

@@ -14,10 +14,10 @@ export default function Footer() {
           <img src="/img/f3.png" alt=""/>
         </a>
       </div>
-      <h2>2022 VDOL Verse. All Rights Reserved.</h2>
+      <h2>2022 Pink 3 NFT. All Rights Reserved.</h2>
       <div className="fixed-box">
         <p>
-          <span>Join us on</span>
+          <span>Pink3 Official</span>
           <a href="#" target="_blank">
           <img src="/img/rb/twitter_mini.png" alt=""/></a>
           <a href="#" target="_blank">
@@ -29,8 +29,8 @@ export default function Footer() {
           <a href="#" target="_blank">
           <img src="/img/rb/opensea_mini.png" alt=""/></a>
         </p>
-        <p>©2021-22, VDOL. All rights reserved</p>
-        <p>For inquiries, email service@youwant.io</p>
+        <p>©Copyright YG Entertainment All rights reserved.</p>
+        <p>Pink3 is the Revolution!</p>
       </div>
     </div>
   )

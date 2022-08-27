@@ -5,20 +5,20 @@ export default function About() {
     <div id="about">
       <div className="content">
         <div className="left">
-          <h1>VDOLVERSE</h1>
+          <h1>BLACKPINK WEB3 FAN CLUB</h1>
           <div className="subtitle">
             弗多尔弗
             <br/>
             フドルフ
           </div>
           <h2>
-            We have designed the underlying archetypal talents for our Virtual Idols (see Meet Genesis VDOLs）.
+            Pink 3 is the Web3 interpretation of our favorite Blackpink & everything we love about them.
             <br/>
-            Virtual idols and influencers are gaining popularity every day, as they are scandal-free and do not age. There are no time or space constraints, and they are cheaper to work with than top celebrities in the long term.
+            BLACKPINK announced a mega-scale comeback consisting of a pre-release single, a new album, and a world tour under the name of [BORN PINK]. They shook the world by dropping the news of their album release following their pre-release single ‘Pink Venom’.
             <br/>
-            As a VDOL NFT holder, you will become part of the Talent Agency and develope with us the team on top of a unified foundation underpinned by the Roadmap and core principles.
+            As a Pink3 NFT holder, you will become part of the Talent Agency and develope with us the team on top of a unified foundation underpinned by the Roadmap and core principles.
             <br/>
-            Yes, I think I know what you are thinking there, You can think of VDOL as the Loot project for Virtual Idols.
+          
           </h2>
           <a href="#" className="more">MORE</a>
         </div>
@@ -27,7 +27,7 @@ export default function About() {
           <h2>
             Virtual Humans are the “foundation of the metaverse”. By breaking through the second dimension, and being more integrated into the real world, they are the messenger connecting virtual and reality.
             <br/>
-            VDOL is a Metaverse Talent Agency allowing users to engage, fund, co-develope and become owners of metaverse-ready Virtual Idols.
+            Pink3 is a Metaverse Talent Agency allowing users to engage, fund, co-develope and become owners of metaverse-ready Virtual Idols.
           </h2>
         </div>
       </div>

@@ -4,7 +4,7 @@ export default function Roadmap() {
   return (
     <div id="roadmap">
       <div className="h1s">
-        <h1>路线图</h1>
+        <h1>로드맵</h1>
         <h1>ROADMAP</h1>
         <h1>ロードマップ</h1>
       </div>
