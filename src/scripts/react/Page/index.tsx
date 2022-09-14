@@ -9,6 +9,7 @@ import Footer from "./Footer";
 import Community from "./Community";
 import {useMoralis} from "react-moralis";
 import Modal from "./Modal";
+import Music from "./Music";
 
 const message = "Pink3 is the Revolution!"
 
@@ -48,6 +49,7 @@ export default function Page() {
       <Community/>
       <Faq/>
       <Footer/>
+      <Music/>
     </>
   )
 }

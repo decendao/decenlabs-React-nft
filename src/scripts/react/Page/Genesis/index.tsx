@@ -6,7 +6,7 @@ import {Navigation} from "swiper";
 
 export default function Genesis() {
   return (
-    <div id="Pink Venom">
+    <div id="Pink_Venom">
       <div className="background-list">
       </div>
       <img className="pre" src="/img/pre.png" alt=""/>
