@@ -1,30 +1,30 @@
 #about{
-  background-color: white;
+  background-color: #fbefeb;
   padding: 9.375rem  /* 150/16 */ 6.875rem  /* 110/16 */ 7.8125rem  /* 125/16 */ 17.9375rem  /* 287/16 */;
   .content {
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
     h2 {
-      font-size: 1.125rem  /* 18/16 */;
+      font-size: 1.325rem  /* 18/16 */;
       font-weight: 700;
       line-height: 2;
     }
     .left {
       width: 40rem  /* 640/16 */;
       h1 {
-        font-size: 8.125rem  /* 130/16 */;
+        font-size: 7.125rem  /* 130/16 */;
         line-height: 1;
-        color: #b58da7;
+        color: #FB98AD;
         font-family: "ale", serif;
         font-weight: 700;
         margin-bottom: 0.625rem  /* 10/16 */;
         font-style: italic;
       }
       .subtitle {
-        font-size: 3.4375rem  /* 55/16 */;
+        font-size: 3.3125rem  /* 55/16 */;
         font-weight: 700;
-        color: #b58da7;
+        color: #FB98AD;
         margin-bottom: 1.25rem  /* 20/16 */;
       }
       .more {
@@ -39,7 +39,7 @@
       width: 45.9375rem  /* 735/16 */;
       >img {
         width: 45.9375rem  /* 735/16 */;
-        height: 23.75rem  /* 380/16 */;
+        height: 61.75rem  /* 380/16 */;
         margin-bottom: 4.6875rem  /* 75/16 */;
       }
     }

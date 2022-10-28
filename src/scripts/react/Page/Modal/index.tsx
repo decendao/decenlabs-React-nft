@@ -48,9 +48,9 @@ export default function Modal(props: Props) {
               {
                 time.allS > 0 ? (
                   <div className="left flex-shrink-0 pt-5">
-                    <div className="subtitle">VDOL NFT</div>
+                    <div className="subtitle">PINK3 NFT</div>
                     <div className="title">COMING SOON</div>
-                    <div className="xw">GET YOUR VDOL NFT READY ?</div>
+                    <div className="xw">GET YOUR PINK3 NFT READY ?</div>
                     <div className="times">
                       <div className="time-item">
                         <div className="num">{time.day}</div>
@@ -88,9 +88,9 @@ export default function Modal(props: Props) {
             </div>
           ) : (
             <div className="no-wallet">
-              <button className="primary" disabled onClick={() => {}}>Await会 Connect Wallet...</button>
+              <button className="primary" disabled onClick={() => {}}>PINK3 IS THE REVOLUTION! </button>
               <div className="use-block-explorer">
-                VDOL NFT<span className="emoji">❤️</span><span className="emoji">❤️</span><span className="emoji">❤️</span><span className="emoji">❤️</span><span className="emoji">❤️</span>
+                PINK3 NFT<span className="emoji">❤️</span><span className="emoji"></span>
               </div>
             </div>
           )

@@ -22,14 +22,14 @@ export default function Faq() {
   return (
     <div id="faq">
       <div className="h1s">
-        <h1>常见问题</h1>
+        <h1>질문</h1>
         <h1>FAQ</h1>
         <h1>よくある質問</h1>
       </div>
       <div className="list">
         <div className="item open">
           <div className="title">
-            <h1>VDOL is the first virtual modeling agency in the metaverse created for NFT?</h1>
+            <h1>What is the PINK3 NFT?</h1>
             <div className="close">
               <img src="/img/zk.png" className="icon"/>
             </div>

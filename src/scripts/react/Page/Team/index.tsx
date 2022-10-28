@@ -4,12 +4,12 @@ export default function Team() {
   return (
     <div id="team">
       <div className="h1s">
-        <h1>团队简介</h1>
+        <h1>팀프로필</h1>
         <h1>TEAM PROFILE</h1>
         <h1>チームプロフィール</h1>
       </div>
       <h2>
-        VDOL is the first virtual modeling agency in the metaverse created for NFT entrepreneurs with earnings possibilities of holding NFTs instead of flipping.
+        
       </h2>
       <div className="list">
         <div className="item">

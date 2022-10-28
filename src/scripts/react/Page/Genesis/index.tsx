@@ -30,31 +30,28 @@ export default function Genesis() {
         }}
       >
         <SwiperSlide className="item left">
-          <img src="/img/18.png" alt=""/>
+          <img src="/img/17.png" alt=""/>
           <div className="text">
-            <h1>MEET<br/>GENESIS<br/>VDOLS</h1>
+            <h1><br/><br/></h1>
             <h2>
-              Meet all our Virtual idols here.<br/>
               <br/>
-              introduced during the Expansion phase.
+              <br/>
             </h2>
             <h2>
-              Meet all our Virtual idols here.<br/>
-              There will be additional VDOL idols<br/>
-              introduced during the Expansion phase.<br/>
+              
             </h2>
           </div>
         </SwiperSlide>
         <SwiperSlide className="item right">
           <img src="/img/16.png" alt=""/>
           <div className="text">
-            <h1>GenesisVdols<br/>を参照</h1>
+            <h1><br/></h1>
           </div>
         </SwiperSlide>
         <SwiperSlide className="item right">
           <img src="/img/18.png" alt=""/>
           <div className="text">
-            <h1>GenesisVdols<br/>を参照</h1>
+            <h1><br/></h1>
           </div>
         </SwiperSlide>
       </Swiper>

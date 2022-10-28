@@ -7,7 +7,7 @@ export default function Community() {
   return (
     <div id="community">
       <div className="h1s">
-        <h1>社区</h1>
+        <h1>지역 사회</h1>
         <h1>COMMUNITY</h1>
         <h1>コミュニティ</h1>
       </div>
@@ -28,7 +28,7 @@ export default function Community() {
           <img src="/img/community/tikok.png" alt=""/>
         </a>
       </div>
-      <h3>Join 32,973 other members in the Discord! Check out Superfans b</h3>
+      <h3>Join 32,973 other Blackpink FANs in the Discord!</h3>
       <div className="list">
         <div className="item">
           <img src="/img/community/vivi.png" alt=""/>

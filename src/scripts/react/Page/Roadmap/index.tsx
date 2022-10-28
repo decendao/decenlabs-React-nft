@@ -9,7 +9,9 @@ export default function Roadmap() {
         <h1>ロードマップ</h1>
       </div>
       <h2>
-        VDOL is the first virtual modeling agency in the metaverse created for NFT entrepreneurs with earnings possibilities of holding NFTs instead of flipping.
+        PINK3 DAO is the agency for BLACKPINK in the metaverse governed by the NFT holders. 
+        <br/>
+        with earnings possibilities of holding NFTs instead of flipping.      
       </h2>
       <div className="list">
         <div className="line"/>

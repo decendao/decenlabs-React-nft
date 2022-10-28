@@ -1,5 +1,5 @@
 #faq {
-  background: url("./faq.png") no-repeat no-repeat left center #333;
+  background: url("./bg_29.jpg") no-repeat center top;
   background-size: cover;
   padding-top: 5.625rem  /* 90/16 */;
   padding-bottom: 8.75rem  /* 140/16 */;
@@ -9,8 +9,8 @@
   >.h1s {
     margin-bottom: 2.8125rem  /* 45/16 */;
     >h1 {
-      font-size: 3.125rem  /* 50/16 */;
-      color: white;
+      font-size: 3.3125rem  /* 50/16 */;
+      color: #FB98AD;
       text-align: center;
       font-weight: 700;
     }
@@ -18,7 +18,7 @@
   .list {
     width: 88.125rem  /* 1410/16 */;
     .item {
-      border: 0.1875rem  /* 3/16 */ solid #bd576c;
+      border: 0.1875rem  /* 3/16 */ solid #FB98AD;
       border-radius: 0.9375rem  /* 15/16 */;
       padding: 0 1.25rem  /* 20/16 */;
       margin-bottom: 30px;
@@ -28,8 +28,8 @@
         display: flex;
         align-items: center;
         h1 {
-          font-size: 1.5rem  /* 24/16 */;
-          color: white;
+          font-size: 1.725rem  /* 24/16 */;
+          color: black;
         }
         .close {
           margin-left: auto;
@@ -42,10 +42,10 @@
       h2 {
         display: none;
         height: auto;
-        padding-bottom: 1.25rem  /* 20/16 */;
-        overflow: hidden;
-        color: white;
-        opacity: .8;
+        padding-bottom: 1.525rem  /* 20/16 */;
+        overflow: clip ;
+        color: black;
+        opacity: .9;
         line-height: 1.9;
       }
     }

@@ -23,7 +23,7 @@ export default function Header(props: Props) {
   return (
     <div id="header">
       <div className="top-nav">
-        <img className="logo" src="/img/logo2.png" alt=""/>
+        <img className="logo" src="/img/logo.png" alt=""/>
         <div className="m-d"/>
         <div className="right">
           <img src="/img/close.png" className="close"/>
@@ -32,7 +32,7 @@ export default function Header(props: Props) {
               HOME
             </a>
             <a className="nav-item" href="#about">
-              ABOUT
+              FAN CLUB NFT
             </a>
             <a className="nav-item" href="#roadmap">
               ROADMAP
@@ -41,7 +41,7 @@ export default function Header(props: Props) {
               TEAM
             </a>
             <a className="nav-item" href="#genesis">
-              GENESIS
+              ART
             </a>
             <a className="nav-item" href="#faq">
               FAQ

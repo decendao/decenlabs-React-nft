@@ -3,7 +3,7 @@ import {useEffect, useRef, useState} from "react";
 
 const options = {
   // 图片路径
-  image: "img/18.png",
+  image: "img/17.png",
   // 歌曲列表
   musics: [
     {
